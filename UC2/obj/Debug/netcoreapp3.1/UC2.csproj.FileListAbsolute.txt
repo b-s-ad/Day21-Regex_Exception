@@ -12,17 +12,3 @@ C:\Users\Userr\source\repos\UC2\obj\Debug\netcoreapp3.1\UC2.csproj.CoreCompileIn
 C:\Users\Userr\source\repos\UC2\obj\Debug\netcoreapp3.1\UC2.dll
 C:\Users\Userr\source\repos\UC2\obj\Debug\netcoreapp3.1\UC2.pdb
 C:\Users\Userr\source\repos\UC2\obj\Debug\netcoreapp3.1\UC2.genruntimeconfig.cache
-C:\Users\Userr\Desktop\New\UC2\bin\Debug\netcoreapp3.1\UC2.exe
-C:\Users\Userr\Desktop\New\UC2\bin\Debug\netcoreapp3.1\UC2.deps.json
-C:\Users\Userr\Desktop\New\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.json
-C:\Users\Userr\Desktop\New\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.dev.json
-C:\Users\Userr\Desktop\New\UC2\bin\Debug\netcoreapp3.1\UC2.dll
-C:\Users\Userr\Desktop\New\UC2\bin\Debug\netcoreapp3.1\UC2.pdb
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.csproj.AssemblyReference.cache
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfoInputs.cache
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfo.cs
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.csproj.CoreCompileInputs.cache
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.dll
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.pdb
-C:\Users\Userr\Desktop\New\UC2\obj\Debug\netcoreapp3.1\UC2.genruntimeconfig.cache
