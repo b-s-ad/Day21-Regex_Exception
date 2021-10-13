@@ -1,0 +1,14 @@
+C:\Users\Userr\source\repos\UC5\bin\Debug\netcoreapp3.1\UC5.exe
+C:\Users\Userr\source\repos\UC5\bin\Debug\netcoreapp3.1\UC5.deps.json
+C:\Users\Userr\source\repos\UC5\bin\Debug\netcoreapp3.1\UC5.runtimeconfig.json
+C:\Users\Userr\source\repos\UC5\bin\Debug\netcoreapp3.1\UC5.runtimeconfig.dev.json
+C:\Users\Userr\source\repos\UC5\bin\Debug\netcoreapp3.1\UC5.dll
+C:\Users\Userr\source\repos\UC5\bin\Debug\netcoreapp3.1\UC5.pdb
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.csproj.AssemblyReference.cache
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.AssemblyInfoInputs.cache
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.AssemblyInfo.cs
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.csproj.CoreCompileInputs.cache
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.dll
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.pdb
+C:\Users\Userr\source\repos\UC5\obj\Debug\netcoreapp3.1\UC5.genruntimeconfig.cache
