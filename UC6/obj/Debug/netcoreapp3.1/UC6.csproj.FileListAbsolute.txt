@@ -1,0 +1,14 @@
+C:\Users\Userr\source\repos\UC6\bin\Debug\netcoreapp3.1\UC6.exe
+C:\Users\Userr\source\repos\UC6\bin\Debug\netcoreapp3.1\UC6.deps.json
+C:\Users\Userr\source\repos\UC6\bin\Debug\netcoreapp3.1\UC6.runtimeconfig.json
+C:\Users\Userr\source\repos\UC6\bin\Debug\netcoreapp3.1\UC6.runtimeconfig.dev.json
+C:\Users\Userr\source\repos\UC6\bin\Debug\netcoreapp3.1\UC6.dll
+C:\Users\Userr\source\repos\UC6\bin\Debug\netcoreapp3.1\UC6.pdb
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.csproj.AssemblyReference.cache
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.AssemblyInfoInputs.cache
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.AssemblyInfo.cs
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.csproj.CoreCompileInputs.cache
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.dll
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.pdb
+C:\Users\Userr\source\repos\UC6\obj\Debug\netcoreapp3.1\UC6.genruntimeconfig.cache
