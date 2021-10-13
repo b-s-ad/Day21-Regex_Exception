@@ -15,8 +15,8 @@ namespace day21
             
                 if (first_name == null)
                 {
-                    throw new URegCustomException(URegCustomException.ExceptionType.INVALID_MESSAGE, "Invalid First_Name");
-                }
+                    throw new URegCustomException(URegCustomException.ExceptionType.INVALID_MESSAGE, "Invalid Input");
+                } 
                 return System.Text.RegularExpressions.Regex.IsMatch(first_name, Regex_First_name);
             }
     }
