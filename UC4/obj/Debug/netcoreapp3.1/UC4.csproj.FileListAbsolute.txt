@@ -1,0 +1,14 @@
+C:\Users\Userr\source\repos\UC4\bin\Debug\netcoreapp3.1\UC4.exe
+C:\Users\Userr\source\repos\UC4\bin\Debug\netcoreapp3.1\UC4.deps.json
+C:\Users\Userr\source\repos\UC4\bin\Debug\netcoreapp3.1\UC4.runtimeconfig.json
+C:\Users\Userr\source\repos\UC4\bin\Debug\netcoreapp3.1\UC4.runtimeconfig.dev.json
+C:\Users\Userr\source\repos\UC4\bin\Debug\netcoreapp3.1\UC4.dll
+C:\Users\Userr\source\repos\UC4\bin\Debug\netcoreapp3.1\UC4.pdb
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.csproj.AssemblyReference.cache
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.AssemblyInfoInputs.cache
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.AssemblyInfo.cs
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.csproj.CoreCompileInputs.cache
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.dll
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.pdb
+C:\Users\Userr\source\repos\UC4\obj\Debug\netcoreapp3.1\UC4.genruntimeconfig.cache
