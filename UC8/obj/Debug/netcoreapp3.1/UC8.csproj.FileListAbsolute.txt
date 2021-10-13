@@ -1,0 +1,14 @@
+C:\Users\Userr\source\repos\UC8\bin\Debug\netcoreapp3.1\UC8.exe
+C:\Users\Userr\source\repos\UC8\bin\Debug\netcoreapp3.1\UC8.deps.json
+C:\Users\Userr\source\repos\UC8\bin\Debug\netcoreapp3.1\UC8.runtimeconfig.json
+C:\Users\Userr\source\repos\UC8\bin\Debug\netcoreapp3.1\UC8.runtimeconfig.dev.json
+C:\Users\Userr\source\repos\UC8\bin\Debug\netcoreapp3.1\UC8.dll
+C:\Users\Userr\source\repos\UC8\bin\Debug\netcoreapp3.1\UC8.pdb
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.csproj.AssemblyReference.cache
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.AssemblyInfoInputs.cache
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.AssemblyInfo.cs
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.csproj.CoreCompileInputs.cache
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.dll
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.pdb
+C:\Users\Userr\source\repos\UC8\obj\Debug\netcoreapp3.1\UC8.genruntimeconfig.cache
